@@ -90,9 +90,3 @@ A prática mostrou como a indexação e a pesquisa cognitiva podem ser usadas pa
 
 ---
 
-## Links Úteis
-
-- https://learn.microsoft.com/pt-br/azure/search/
-- https://learn.microsoft.com/pt-br/azure/ai-services/
-- https://github.com/
-- https://www.dio.me/
